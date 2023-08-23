@@ -7,3 +7,13 @@ C:\Users\dtm\source\repos\DoHC2Runner\DoHC2Runner\obj\Debug\DoHC2Runner.exe
 C:\Users\dtm\source\repos\DoHC2Runner\DoHC2Runner\obj\Debug\DoHC2Runner.pdb
 C:\Users\dtm\source\repos\DoHC2Runner\DoHC2Runner\bin\Debug\Newtonsoft.Json.xml
 C:\Users\dtm\source\repos\DoHC2Runner\DoHC2Runner\obj\Debug\DoHC2Runner.csproj.CopyComplete
+D:\迅雷下载\DoHC2-master\DoHC2-master\Example-Client\DoHC2Runner\bin\Debug\DoHC2Runner.exe.config
+D:\迅雷下载\DoHC2-master\DoHC2-master\Example-Client\DoHC2Runner\bin\Debug\DoHC2Runner.exe
+D:\迅雷下载\DoHC2-master\DoHC2-master\Example-Client\DoHC2Runner\bin\Debug\DoHC2Runner.pdb
+D:\迅雷下载\DoHC2-master\DoHC2-master\Example-Client\DoHC2Runner\obj\Debug\DoHC2Runner.csproj.AssemblyReference.cache
+D:\迅雷下载\DoHC2-master\DoHC2-master\Example-Client\DoHC2Runner\obj\Debug\DoHC2Runner.csproj.SuggestedBindingRedirects.cache
+D:\迅雷下载\DoHC2-master\DoHC2-master\Example-Client\DoHC2Runner\obj\Debug\DoHC2Runner.csproj.CoreCompileInputs.cache
+D:\迅雷下载\DoHC2-master\DoHC2-master\Example-Client\DoHC2Runner\obj\Debug\DoHC2Runner.exe
+D:\迅雷下载\DoHC2-master\DoHC2-master\Example-Client\DoHC2Runner\obj\Debug\DoHC2Runner.pdb
+D:\迅雷下载\DoHC2-master\DoHC2-master\Example-Client\DoHC2Runner\bin\Debug\Newtonsoft.Json.xml
+D:\迅雷下载\DoHC2-master\DoHC2-master\Example-Client\DoHC2Runner\obj\Debug\DoHC2Runner.csproj.CopyComplete
