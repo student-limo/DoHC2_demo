@@ -9,7 +9,7 @@
     <OutputType>Exe</OutputType>
     <RootNamespace>DoHC2Runner</RootNamespace>
     <AssemblyName>DoHC2Runner</AssemblyName>
-    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
@@ -41,7 +41,7 @@
   <ItemGroup>
     <Reference Include="ExternalC2, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\Documents\Projects\AttackCon\CodeRelease\ExternalC2-master\ExternalC2\bin\Debug\ExternalC2.dll</HintPath>
+      <HintPath>..\..\ExternalC2\ExternalC2\bin\Debug\ExternalC2.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
